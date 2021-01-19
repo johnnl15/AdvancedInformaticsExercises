@@ -22,3 +22,7 @@ For this week:
 
 Hello I was following in class so made the above. This is the random text portion -Johnny Le, 01072020
 kasdjfklajsdlfjslkdjfklasjdfkljq
+
+## Week 2 R Markdown files
+
+1. [R Markdown](https://github.com/johnnl15/AdvancedInformatics2021.git) see week 2 branch
