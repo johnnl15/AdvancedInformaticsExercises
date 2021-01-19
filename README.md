@@ -6,9 +6,9 @@
 * [Source code](https://github.com/ThorntonLab/ComputerSkills4GradStudents)
  for the book
 
-## Lab exercises
+# Lab exercises
 
-### Week 1
+## Week 1
 
 For this week: 
 
