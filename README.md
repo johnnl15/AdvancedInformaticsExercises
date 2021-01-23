@@ -26,3 +26,4 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 ## Week 2 R Markdown files
 
 1. [R Markdown](https://github.com/johnnl15/AdvancedInformatics2021.git) see week 2 branch
+Sorry Kevin about the delay. Here's my week 2 above. 
