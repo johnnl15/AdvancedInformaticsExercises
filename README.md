@@ -25,4 +25,4 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 
 ## Week 2 R Markdown files
 
-1. [R Markdown](https://github.com/johnnl15/AdvancedInformatics2021.git) see week 2 branch
+1. [R Markdown](https://github.com/johnnl15/R-Markdown-File.git) I had to clean up and create a new repository first
