@@ -28,4 +28,7 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 1. [R Markdown](https://github.com/johnnl15/R-Markdown-File.git) I had to clean up and create a new repository first
 
 ## Week 3 R and Python sqlite3
-2 [R Markdown](https://github.com/johnnl15/Week3.git) Here is my week3 assignment. 
+1. [R Markdown](https://github.com/johnnl15/Week3.git) Here is my week3 assignment. 
+
+## Week 4 Snakemake ~~~SSSSSS
+1. [Snakemake files](https://github.com/johnnl15/Week4.git) Here is my week4 assignment. 
