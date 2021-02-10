@@ -31,4 +31,7 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 1. [R Markdown](https://github.com/johnnl15/Week3.git) Here is my week3 assignment. 
 
 ## Week 4 Snakemake ~~~SSSSSS
-1. [Snakemake files](https://github.com/johnnl15/Week4.git) Here is my week4 assignment. 
+1. [Snakemake files](https://github.com/johnnl15/Week4.git) Here is my week4 assignment.
+
+## Week 5 Plots 
+1. [plots in R](https://github.com/johnnl15/Week5.git) Here is my week5 assignment. 
