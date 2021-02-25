@@ -34,4 +34,7 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 1. [Snakemake files](https://github.com/johnnl15/Week4.git) Here is my week4 assignment.
 
 ## Week 5 Plots 
-1. [plots in R](https://github.com/johnnl15/Week5.git) Here is my week5 assignment. 
+1. [plots in R](https://github.com/johnnl15/Week5.git) Here is my week5 assignment.
+
+## Week 6 Symlinks 
+1. [DNA, RNA and ATAC Syms](https://github.com/johnnl15/week6.git) I have attached my week6 assignments.  
