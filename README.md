@@ -37,4 +37,7 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 1. [plots in R](https://github.com/johnnl15/Week5.git) Here is my week5 assignment.
 
 ## Week 6 Symlinks 
-1. [DNA, RNA and ATAC Syms](https://github.com/johnnl15/week6.git) I have attached my week6 assignments.  
+1. [DNA, RNA and ATAC Syms](https://github.com/johnnl15/week6.git) I have attached my week6 assignments. 
+
+## Week 7 Alignments
+1. [DNA, RNA and ATAC Aligned](https://github.com/johnnl15/week7.git). I have attached my week7 assignments.  
