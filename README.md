@@ -40,4 +40,7 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 1. [DNA, RNA and ATAC Syms](https://github.com/johnnl15/week6.git) I have attached my week6 assignments. 
 
 ## Week 7 Alignments
-1. [DNA, RNA and ATAC Aligned](https://github.com/johnnl15/week7.git). I have attached my week7 assignments.  
+1. [DNA, RNA and ATAC Aligned](https://github.com/johnnl15/week7.git). I have attached my week7 assignments.
+
+## Week 8 Merge, Call SNPs, and Read RNA counts 
+1. [Merge, SNPs, and Reads](https://github.com/johnnl15/week8.git). Here's my week8 assignment.   
