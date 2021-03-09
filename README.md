@@ -25,22 +25,25 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 
 ## Week 2 R Markdown files
 
-1. [R Markdown](https://github.com/johnnl15/R-Markdown-File.git) I had to clean up and create a new repository first
+1. [R Markdown](https://github.com/johnnl15/R-Markdown-File.git)
 
 ## Week 3 R and Python sqlite3
-1. [R Markdown](https://github.com/johnnl15/Week3.git) Here is my week3 assignment. 
+1. [R Markdown](https://github.com/johnnl15/Week3.git) 
 
 ## Week 4 Snakemake ~~~SSSSSS
-1. [Snakemake files](https://github.com/johnnl15/Week4.git) Here is my week4 assignment.
+1. [Snakemake files](https://github.com/johnnl15/Week4.git) 
 
 ## Week 5 Plots 
-1. [plots in R](https://github.com/johnnl15/Week5.git) Here is my week5 assignment.
+1. [plots in R](https://github.com/johnnl15/Week5.git)
 
 ## Week 6 Symlinks 
-1. [DNA, RNA and ATAC Syms](https://github.com/johnnl15/week6.git) I have attached my week6 assignments. 
+1. [DNA, RNA and ATAC Syms](https://github.com/johnnl15/week6.git) 
 
 ## Week 7 Alignments
-1. [DNA, RNA and ATAC Aligned](https://github.com/johnnl15/week7.git). I have attached my week7 assignments.
+1. [DNA, RNA and ATAC Aligned](https://github.com/johnnl15/week7.git).
 
 ## Week 8 Merge, Call SNPs, and Read RNA counts 
-1. [Merge, SNPs, and Reads](https://github.com/johnnl15/week8.git). Here's my week8 assignment.   
+1. [Merge, SNPs, and Reads](https://github.com/johnnl15/week8.git).
+
+## Week 9 Deseq2 and ATACseq
+1. [Desq2 and ATACseq](https://github.com/johnnl15/week9.git)    
