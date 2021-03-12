@@ -46,4 +46,6 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 1. [Merge, SNPs, and Reads](https://github.com/johnnl15/week8.git).
 
 ## Week 9 Deseq2 and ATACseq
-1. [Desq2 and ATACseq](https://github.com/johnnl15/week9.git)    
+1. [Desq2 and ATACseq](https://github.com/johnnl15/week9.git)
+
+## Testing out new computer with git environment    
