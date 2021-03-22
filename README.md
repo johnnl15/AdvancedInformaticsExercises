@@ -48,4 +48,5 @@ kasdjfklajsdlfjslkdjfklasjdfkljq
 ## Week 9 Deseq2 and ATACseq
 1. [Desq2 and ATACseq](https://github.com/johnnl15/week9.git)
 
-## Testing out new computer with git environment    
+## Week 10 FinalProject
+1. [Final Project](https://github.com/johnnl15/FinalProject.git) `  
